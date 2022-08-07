@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MainTask</string>
+    <string name="str_continue">Continue</string>
+    <string name="reservations">Select at least one Guest that has a reservation to continue </string>
+    <string name="reservation_needed">Reservation Needed</string>
+    <string name="confirm">Wants to Confirm?</string>
+    <string name="confirm_guests">Confirm Guests</string>
+    <string name="done">Done</string>
+    <string name="conflict_found">Conflict Found</string>
+    <string name="atleast_one">At least one Guest in the party should have reservation. Guests without reservations must remains in the same booking party in order to enter</string>
+</resources>

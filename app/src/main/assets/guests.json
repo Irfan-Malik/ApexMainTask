@@ -1,0 +1,28 @@
+{
+  "guest": [
+    {
+      "title": "These Guests Have Reservations",
+      "type": "haveReservations",
+      "guestsList": [
+        {
+          "title": "Dale Gibson"
+        },
+        {
+          "title": "Jeremy Gibson"
+        }
+      ]
+    },
+    {
+      "title": "These Guest needs Reservations",
+      "type": "needReservations",
+      "guestsList" : [
+        {
+          "title": "Linda Gibson"
+        },
+        {
+          "title": "Margarete Gibson"
+        }
+      ]
+    }
+  ]
+}
